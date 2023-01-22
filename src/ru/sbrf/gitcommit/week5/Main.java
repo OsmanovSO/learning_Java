@@ -10,6 +10,7 @@ public class Main {
         Book book5 = new Book("Гарри поттер \"Орден Феникса\"");
         Book book6 = new Book("Гарри поттер \"Принц-полукровка\"");
         Book book7 = new Book("Гарри поттер \"Дары Смерти\"");
+
         Magazine magazinne = new Magazine("Ozon");
         book1.print();
         magazinne.print();
